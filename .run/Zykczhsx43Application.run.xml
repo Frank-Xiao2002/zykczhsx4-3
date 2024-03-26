@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Zykczhsx43Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="zykczhsx4-3" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxj.zykczhsx43.Zykczhsx43Application" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="ConnectionRunnerForConfigurationId" enabled="false">
+        <option name="envFile" value="C:\Users\frank\IdeaProjects\zykczhsx4-3\.azure\default\.env" />
+      </option>
+    </method>
+  </configuration>
+</component>
