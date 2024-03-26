@@ -21,10 +21,6 @@ public class MyUserController {
         return "insertPage";
     }
 
-    @RequestMapping("/findAll")
-    public List<User> findAll() {
-        return userService.findAll();
-    }
 
     @RequestMapping("/userList")
     public String userList(Model model) {
